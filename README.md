@@ -61,19 +61,6 @@ Min PL = 114.6046 dB
 
 ---
 
-## ⚙️ How to Compile & Run  
-1. Save your code in `main.cpp`.  
-2. Compile using g++:  
-   ```bash
-   g++ main.cpp -o pathloss
-   ```  
-3. Run the program:  
-   ```bash
-   ./pathloss
-   ```  
-4. Enter the **input file name** and the **output file name** when prompted.  
-
----
 
 ## 📘 Reference  
 - [Okumura-Hata Model Basics](http://www.rfwireless-world.com/Terminology/Okumura-Hata-Model-basics.html)  
